@@ -1,7 +1,9 @@
 # zeit.zsh-theme
 ▲ZEIT's `zsh` theme
 
-<img src="https://raw.githubusercontent.com/zeit/zeit.zsh-theme/master/screenshot.png">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zeit/zeit.zsh-theme/master/screenshot.png">
+</p>
 
 ## Install
 
