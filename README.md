@@ -22,5 +22,5 @@ ZSH_THEME="zeit"
 Then apply the theme:
 
 ```
-source ~/.zsh
+source ~/.zshrc
 ```
