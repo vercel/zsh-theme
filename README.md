@@ -7,10 +7,10 @@
 
 ## Install
 
-First, download the theme into [`Oh My Zsh`](https://github.com/robbyrussell/oh-my-zsh)'s theme folder:
+First, download the theme into [`Oh My Zsh`](https://github.com/robbyrussell/oh-my-zsh)'s custom theme folder:
 
 ```
-curl https://raw.githubusercontent.com/zeit/zeit.zsh-theme/master/zeit.zsh-theme -Lo ~/.oh-my-zsh/themes/zeit.zsh-theme
+curl https://raw.githubusercontent.com/zeit/zeit.zsh-theme/master/zeit.zsh-theme -Lo ~/.oh-my-zsh/custom/themes/zeit.zsh-theme
 ```
 
 Edit your `~/.zshrc`:
